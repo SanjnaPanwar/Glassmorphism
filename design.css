@@ -20,7 +20,7 @@ section::before {
     position: absolute;
     width: 400px;
     height: 400px;
-    background: linear-gradient(#ffeb3b, #a91a63);
+    background: linear-gradient(#ecece5, #a91a63);
     border-radius: 50%;
     transform: translate(-420px,-180px);
 }
@@ -30,7 +30,7 @@ section::after {
     position: absolute;
     width: 350px;
     height: 350px;
-    background: linear-gradient(#2196f3, #83d8ff);
+    background: linear-gradient(#2196f3, #ecf0f1);
     border-radius: 50%;
     transform: translate(400px,180px);
 }
